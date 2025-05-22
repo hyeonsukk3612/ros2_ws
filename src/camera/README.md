@@ -1,7 +1,7 @@
 
 설정 및 빌드
 
-###
+///////////////
 colcon build --symlink-install --packages-select camera
 
 source ~/ros2_ws/install/local_setup.bash
